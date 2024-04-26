@@ -10,7 +10,7 @@ O objetivo desse curso é ensinar brevemente os seguintes tópicos:
 
 ✅ Fundamentos; 
 
-👉🏽 📖 Manipulação de Dados;
+📖 Manipulação de Dados;
 
 🔒 Programação Orientada a Objetos;
 
